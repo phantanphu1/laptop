@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/phantanphu1/laptop.git/static/css/main.9bcb1edd.chunk.css",
+    "main.js": "/phantanphu1/laptop.git/static/js/main.74e4e755.chunk.js",
+    "main.js.map": "/phantanphu1/laptop.git/static/js/main.74e4e755.chunk.js.map",
+    "runtime-main.js": "/phantanphu1/laptop.git/static/js/runtime-main.2303af7a.js",
+    "runtime-main.js.map": "/phantanphu1/laptop.git/static/js/runtime-main.2303af7a.js.map",
+    "static/css/2.0d26c112.chunk.css": "/phantanphu1/laptop.git/static/css/2.0d26c112.chunk.css",
+    "static/js/2.2a8cb064.chunk.js": "/phantanphu1/laptop.git/static/js/2.2a8cb064.chunk.js",
+    "static/js/2.2a8cb064.chunk.js.map": "/phantanphu1/laptop.git/static/js/2.2a8cb064.chunk.js.map",
+    "static/js/3.d67ba17b.chunk.js": "/phantanphu1/laptop.git/static/js/3.d67ba17b.chunk.js",
+    "static/js/3.d67ba17b.chunk.js.map": "/phantanphu1/laptop.git/static/js/3.d67ba17b.chunk.js.map",
+    "index.html": "/phantanphu1/laptop.git/index.html",
+    "static/css/2.0d26c112.chunk.css.map": "/phantanphu1/laptop.git/static/css/2.0d26c112.chunk.css.map",
+    "static/css/main.9bcb1edd.chunk.css.map": "/phantanphu1/laptop.git/static/css/main.9bcb1edd.chunk.css.map",
+    "static/js/2.2a8cb064.chunk.js.LICENSE.txt": "/phantanphu1/laptop.git/static/js/2.2a8cb064.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/phantanphu1/laptop.git/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/logo.6ce24c58.svg": "/phantanphu1/laptop.git/static/media/logo.6ce24c58.svg",
+    "static/media/styles.css": "/phantanphu1/laptop.git/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2303af7a.js",
+    "static/css/2.0d26c112.chunk.css",
+    "static/js/2.2a8cb064.chunk.js",
+    "static/css/main.9bcb1edd.chunk.css",
+    "static/js/main.74e4e755.chunk.js"
+  ]
+}
